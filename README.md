@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img 
+    src="https://cdnl.iconscout.com/lottie/premium/thumb/programmer-typing-keyboard-computer-syntax-codes-animation-gif-download-10482293.gif"
+    alt="Developer coding"
+    width="900"
+    height="280"
+  />
 </div>
 
 <h1 align="center">👋 Olá, eu sou Ricardo Estevam!</h1>
