@@ -1,6 +1,14 @@
-# 👋 Olá, eu sou Ricardo Estevam!
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</div>
 
-### 💻 Desenvolvedor de Software em formação
+<h1 align="center">👋 Olá, eu sou Ricardo Estevam!</h1>
+
+<h3 align="center">💻 Desenvolvedor de Software em formação</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Richardo-o&color=blue&style=flat-square&label=Profile+Views">
+</p>
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma na Fatec Registro**, atualmente no 4º período, e tenho como objetivo profissional atuar como **Desenvolvedor de Software**, com foco em **Back-end** e interesse em desenvolvimento Full Stack.
 
