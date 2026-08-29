@@ -137,26 +137,13 @@ Tecnologia em Desenvolvimento de Software Multiplataforma
 
 ## GitHub
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardoestevam10&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoestevam10&layout=compact&theme=github_dark&hide_border=true" />
+[![GitHub](https://img.shields.io/badge/GitHub-ricardoestevam10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardoestevam10)
 
 </div>
 
----
 
-## Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ricardoestevam10/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Estevam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:ricardoestevam2704@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ricardoestevam2704%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 </div>
