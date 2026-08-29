@@ -1,166 +1,162 @@
 <div align="center">
-  <img 
-    src="https://cdnl.iconscout.com/lottie/premium/thumb/programmer-typing-keyboard-computer-syntax-codes-animation-gif-download-10482293.gif"
-    alt="Developer coding"
-    width="900"
-    height="280"
-  />
-</div>
 
-<h1 align="center">👋 Olá, eu sou Ricardo Estevam!</h1>
+# Ricardo Estevam
 
-<h3 align="center">💻 Desenvolvedor de Software em formação</h3>
+### Backend Developer | Java • Spring Boot • Node.js
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Richardo-o&color=blue&style=flat-square&label=Profile+Views">
-</p>
-
-Sou estudante de **Desenvolvimento de Software Multiplataforma na Fatec Registro**, atualmente no 4º período, e tenho como objetivo profissional atuar como **Desenvolvedor de Software**, com foco em **Back-end** e interesse em desenvolvimento Full Stack.
-
-Minha relação com tecnologia começou desde cedo, sempre buscando entender como computadores, sistemas e a internet funcionam. Atualmente transformo essa curiosidade em projetos, estudos e desenvolvimento de aplicações.
-
-Tenho experiência prática em projetos acadêmicos envolvendo **APIs REST, regras de negócio, autenticação, integração com bancos de dados e desenvolvimento de aplicações web**.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Estudante de **Desenvolvimento de Software Multiplataforma — Fatec Registro**
-* 💻 Foco profissional em **Desenvolvimento de Software**
-* 🔥 Interesse principal em **Back-end**
-* 🌐 Também estudo **Front-end e desenvolvimento Full Stack**
-* 🛠️ Experiência prática através de projetos acadêmicos
-* 📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades
-* 📍 Brasil
-
----
-
-## 🧠 Tecnologias e Ferramentas
-
-### 💻 Linguagens
-
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-### ⚙️ Back-end
-
-<div style="display: inline_block">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-</div>
-
-* Node.js
-* Express
-* APIs REST
-* Autenticação
-* Regras de negócio
-
-### 🎨 Front-end
-
-<div style="display: inline_block">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-* React
-* Next.js
-* HTML5
-* CSS3
-* Bootstrap
-
-### 🗄️ Banco de Dados
-
-<div style="display: inline_block">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
-
-* MySQL
-* MongoDB
-
-### 🛠️ Ferramentas
-
-<div style="display: inline_block">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
-* Git
-* GitHub
-* Docker
-
----
-
-## 📌 Projetos em destaque
-
-### 🏢 Sistema de Agendamentos — Imobiliária Bortone
-
-Participação no desenvolvimento do sistema da Imobiliária Bortone, atuando principalmente no **back-end**.
-
-Principais atividades:
-
-* Desenvolvimento e estruturação do sistema de agendamentos;
-* Implementação de regras de negócio;
-* Integração e manipulação de dados;
-* Desenvolvimento das funcionalidades do sistema.
-
----
-
-### 🌱 Sistema de Gerenciamento de Fazenda Vertical
-
-Projeto acadêmico desenvolvido para gerenciamento de uma fazenda vertical.
-
-Principais tecnologias e conceitos:
-
-* JavaScript
-* Node.js
-* Express
-* Next.js
-* MySQL
-* MongoDB
-* APIs REST
-* Autenticação
-* Regras de negócio
-* Oracle APEX
-
-O projeto envolve desenvolvimento de APIs, integração com banco de dados e implementação das regras necessárias para o funcionamento da aplicação.
-
-## 🎯 Atualmente
-
-Atualmente estou focado em:
-
-* Aprofundar meus conhecimentos em **Node.js e desenvolvimento Back-end**;
-* Melhorar minhas habilidades com **APIs REST**;
-* Estudar arquitetura e organização de aplicações;
-* Aprimorar meus conhecimentos em **bancos de dados SQL e NoSQL**;
-* Desenvolver projetos para meu portfólio;
-* Buscar minha primeira oportunidade profissional como **Desenvolvedor de Software**.
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="mailto:ricardoestevam2704@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+Desenvolvedor de Software em formação, com foco em Backend, APIs REST e desenvolvimento de aplicações.
 
 <a href="https://www.linkedin.com/in/ricardoestevam10/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="mailto:ricardoestevam2704@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
+## Sobre mim
+
+Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC Registro** e estou construindo minha carreira como **Desenvolvedor Backend**.
+
+Tenho experiência prática no desenvolvimento de **APIs REST, regras de negócio, autenticação, integração com bancos de dados e aplicações web**, adquirida através de projetos acadêmicos e pessoais.
+
+Atualmente, meu foco está em **Java com Spring Boot e Node.js**, buscando desenvolver aplicações organizadas, eficientes e alinhadas às boas práticas de desenvolvimento de software.
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" />
+</p>
+
+`Java` `Spring Boot` `Node.js` `Express` `Python` `REST APIs`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" />
+</p>
+
+`React` `Next.js` `HTML5` `CSS3` `Bootstrap`
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+`MySQL` `MongoDB` `PostgreSQL`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,swagger" />
+</p>
+
+`Git` `GitHub` `Docker` `Postman` `Swagger / OpenAPI`
+
+---
+
+## Projetos em destaque
+
+### CS2 Skin Draw API
+
+**Java • Spring Boot • REST API**
+
+API REST desenvolvida para gerenciamento de sorteios de skins de CS2.
+
+Principais conceitos utilizados:
+
+- Desenvolvimento de APIs REST
+- Regras de negócio
+- Gerenciamento de dados
+- Estruturação de aplicação Backend
+- Spring Boot
+
+[Ver projeto](https://github.com/ricardoestevam10/cs2-skins-api)
+
+---
+
+### Sistema de Agendamentos — Imobiliária Bortone
+
+Sistema desenvolvido para gerenciamento de agendamentos, com atuação principalmente no Backend.
+
+Principais funcionalidades e conceitos:
+
+- Desenvolvimento de funcionalidades Backend
+- Implementação de regras de negócio
+- Manipulação e integração de dados
+- Estruturação de funcionalidades do sistema
+
+---
+
+### Autonomous Management Environment for Vertical Hydroponic Farms
+
+Projeto acadêmico voltado ao gerenciamento e automação de uma fazenda vertical hidropônica.
+
+Principais tecnologias:
+
+- Node.js
+- Express
+- Next.js
+- JavaScript
+- MySQL
+- MongoDB
+- APIs REST
+- Autenticação
+- Regras de negócio
+
+---
+
+## Atualmente estudando
+
+- Java e Spring Boot
+- Desenvolvimento de APIs REST
+- Arquitetura e organização de aplicações
+- SQL e bancos de dados relacionais
+- MongoDB e bancos NoSQL
+- Docker
+- Autenticação e segurança de APIs
+- Testes de software
+
+---
+
+## Formação
+
+**FATEC Registro**
+
+Tecnologia em Desenvolvimento de Software Multiplataforma
+
+---
+
+## GitHub
+
 <div align="center">
 
-###  "Sempre aprendendo, sempre evoluindo."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardoestevam10&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoestevam10&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ricardoestevam10/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Estevam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ricardoestevam2704@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ricardoestevam2704%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
